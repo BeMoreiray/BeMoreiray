@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Beatriz+Moreira+Silva;Eu+tenho+20+anos;Sou+do+Rio+de+Janeiro;Sou+formada+como+desenvolvedora+Full-Stack;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Beatriz+Moreira+Silva;Eu+tenho+20+anos;Sou+do+Rio+de+Janeiro;Sou+formada+como+desenvolvedora+Back-End;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BeMoreiray&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
